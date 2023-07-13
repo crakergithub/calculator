@@ -1,2 +1,2 @@
 # calculator
-calculator usign HTML , CSS
+calculator usign HTML , CSS , JS
